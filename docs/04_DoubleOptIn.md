@@ -36,7 +36,7 @@ Additional Info:
 
 ## Trash-Mail Protection
 The `EmailChecker` Validator is automatically appended to the `emailAddress` field.
-This validator only triggers, if you've configured at least one email checker service - read more about it [here](./docs/03_SpamProtection.md#email-checker)
+This validator only triggers, if you've configured at least one email checker service - read more about it [here](./03_SpamProtection.md#email-checker)
 
 ## Templating
 Based on given output workflow, you may want to use the double opt in data in given channel:
